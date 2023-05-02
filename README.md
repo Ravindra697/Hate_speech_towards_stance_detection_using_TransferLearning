@@ -23,7 +23,7 @@ data using an unsupervised learning technique called masked language modeling. T
 capture complex relationships between them.
 
 ## Work flow
-### Importing required modules
+### Required modules
   * import pandas as pd
   * import numpy as np
   * from tqdm.auto import tqdm
@@ -31,7 +31,3 @@ capture complex relationships between them.
   * from transformers import BertTokenizer
   * import matplotlib.pyplot as plt
   * from transformers import TFBertModel
-#Collecting the dataset
-#Visualizing the target labels
-
- 
